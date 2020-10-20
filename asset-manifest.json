@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/onlinebanking-Homepage/static/css/main.356235f2.chunk.css",
-    "main.js": "/onlinebanking-Homepage/static/js/main.b61f6a79.chunk.js",
-    "main.js.map": "/onlinebanking-Homepage/static/js/main.b61f6a79.chunk.js.map",
+    "main.js": "/onlinebanking-Homepage/static/js/main.74e1507b.chunk.js",
+    "main.js.map": "/onlinebanking-Homepage/static/js/main.74e1507b.chunk.js.map",
     "runtime-main.js": "/onlinebanking-Homepage/static/js/runtime-main.e53cb737.js",
     "runtime-main.js.map": "/onlinebanking-Homepage/static/js/runtime-main.e53cb737.js.map",
     "static/js/2.90a7aad3.chunk.js": "/onlinebanking-Homepage/static/js/2.90a7aad3.chunk.js",
     "static/js/2.90a7aad3.chunk.js.map": "/onlinebanking-Homepage/static/js/2.90a7aad3.chunk.js.map",
     "index.html": "/onlinebanking-Homepage/index.html",
-    "precache-manifest.a6ea442976f72f005981792f197997a4.js": "/onlinebanking-Homepage/precache-manifest.a6ea442976f72f005981792f197997a4.js",
+    "precache-manifest.15037e18a2a3a52063f3505865f07c53.js": "/onlinebanking-Homepage/precache-manifest.15037e18a2a3a52063f3505865f07c53.js",
     "service-worker.js": "/onlinebanking-Homepage/service-worker.js",
     "static/css/main.356235f2.chunk.css.map": "/onlinebanking-Homepage/static/css/main.356235f2.chunk.css.map",
     "static/js/2.90a7aad3.chunk.js.LICENSE.txt": "/onlinebanking-Homepage/static/js/2.90a7aad3.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.e53cb737.js",
     "static/js/2.90a7aad3.chunk.js",
     "static/css/main.356235f2.chunk.css",
-    "static/js/main.b61f6a79.chunk.js"
+    "static/js/main.74e1507b.chunk.js"
   ]
 }
